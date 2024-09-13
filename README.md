@@ -7,10 +7,10 @@ Marketing Tools - Social Media
 
 ## YouTube Channel
 
-*Banner*
+*Banner* \
 At least 2048 x 1152 pixels and 6MB or less.
 
-*Picture*
+*Picture* \
 It’s recommended to use a picture that’s at least 98 x 98 pixels and 4MB or less. Use a PNG or GIF (no animations) file.
 
 
